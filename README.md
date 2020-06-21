@@ -7,6 +7,7 @@
 Install requirements with<br/>
 `pip install -r requirements.txt`
 ### Download your messages
+As of June 2020:
 1. `go to Settings & Privacy/Your facebook information/Access your information`<br/>
 2. `tap download your information`<br/>
 3. `Exclude all and just enable messages`<br/>
