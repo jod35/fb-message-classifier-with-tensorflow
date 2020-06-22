@@ -16,3 +16,5 @@ As of June 2020:
 6. `unzip your file, Go into inbox and to the file with the person you want to classify's name`<br/>
 7. `Move 'message_1.JSON' into cloned directory`<br/>
 8. `Change code as indicated with comments`<br/>
+
+Steps are slightly different if downloading your data on the mobile app!
